@@ -4,8 +4,10 @@ My name is Gerardo and I'm an Msc student in mathematics at Queen Mary Universit
 
 - 🤖 I'm interested in bayesian machine learning and dynamical systems for quantitative finance
 - 🌱 I’m currently learning about complex systems and causal networks
+- 📈 I love mathematical visualizations. Here's one
 
-![image](https://user-images.githubusercontent.com/4108759/116522890-91a1e380-a8cd-11eb-82d8-ea9664700bea.gif)
+
+[![image](https://user-images.githubusercontent.com/4108759/116522890-91a1e380-a8cd-11eb-82d8-ea9664700bea.gif)](https://github.com/gerdm/misc/blob/master/2021-04/complex-systems.ipynb)
 
 
 <!--
@@ -14,7 +16,6 @@ My name is Gerardo and I'm an Msc student in mathematics at Queen Mary Universit
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
