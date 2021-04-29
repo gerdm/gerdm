@@ -1,4 +1,12 @@
-### Hola mundo 👋
+# Hola mundo 👋
+
+My name is Gerardo and I'm an Msc student in mathematics at Queen Mary University of London.
+
+- 🤖 I'm interested in bayesian machine learning and dynamical systems for quantitative finance
+- 🌱 I’m currently learning about complex systems and causal networks
+
+![image](https://user-images.githubusercontent.com/4108759/116522890-91a1e380-a8cd-11eb-82d8-ea9664700bea.gif)
+
 
 <!--
 **gerdm/gerdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
