@@ -3,7 +3,8 @@
 My name is Gerardo and I'm an Msc student in mathematics at Queen Mary University of London.
 
 - 🤖 I'm interested in bayesian machine learning and dynamical systems for quantitative finance
-- 🌱 I’m currently learning about complex systems and causal networks
+- 🌱 I’m currently learning about complex systems, causal networks, and neural Granger causality
+- I'm working towards my master dissertation on [Kalman Filters](https://github.com/gerdm/msc-dissertation), and as a GSoC student working with the Python code of Kevin Murphy's second volume of his [Machine learning: a probabilistic perspective](https://github.com/gerdm/pyprobml) book  
 
 
 [![image](https://user-images.githubusercontent.com/4108759/116522890-91a1e380-a8cd-11eb-82d8-ea9664700bea.gif)](https://github.com/gerdm/misc/blob/master/2021-04/complex-systems.ipynb)
