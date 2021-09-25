@@ -1,10 +1,9 @@
 # Hola mundo 👋
 
-My name is Gerardo. I'm an PhD student in Bayesian Machine Learning at Queen Mary University of London.
+My name is Gerardo. I'm a PhD student in Bayesian Machine Learning at Queen Mary University of London.
 
 - 🤖 I'm interested in bayesian machine learning and dynamical systems for quantitative finance
 - 🌱 I’m currently learning about complex systems, causal networks, and neural Granger causality
-- I'm working towards my master dissertation on [Kalman Filters](https://github.com/gerdm/msc-dissertation), and as a [GSoC student](https://summerofcode.withgoogle.com/projects/#5732639396331520) working on Kevin Murphy's second volume of his [Machine learning: a probabilistic perspective](https://github.com/gerdm/pyprobml) book.
 
 
 [![image](https://user-images.githubusercontent.com/4108759/116522890-91a1e380-a8cd-11eb-82d8-ea9664700bea.gif)](https://github.com/gerdm/misc/blob/master/2021-04/complex-systems.ipynb)
