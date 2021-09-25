@@ -1,6 +1,6 @@
 # Hola mundo 👋
 
-My name is Gerardo and I'm an Msc student in mathematics at Queen Mary University of London.
+My name is Gerardo. I'm an PhD student in Bayesian Machine Learning at Queen Mary University of London.
 
 - 🤖 I'm interested in bayesian machine learning and dynamical systems for quantitative finance
 - 🌱 I’m currently learning about complex systems, causal networks, and neural Granger causality
