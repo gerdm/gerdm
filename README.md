@@ -8,7 +8,8 @@ My name is Gerardo. I'm a PhD student in Bayesian methods and Machine Learning a
 
 <!-- <img width=600 src="https://user-images.githubusercontent.com/4108759/159231061-377f69f9-dbee-40c4-84c9-74fe5cf8ef5f.gif"/> -->
 
-![flipbook-lofi-fourier (4)](https://user-images.githubusercontent.com/4108759/230772327-fb685d43-1d67-4f62-97ef-ef9f2cbb1838.png)
+![flipbook-lofi-fourier](https://user-images.githubusercontent.com/4108759/230786889-9fabdada-20d4-49fc-b9ee-c67d4db90d4b.png)
+
 
 
 <!--
