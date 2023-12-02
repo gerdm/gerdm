@@ -4,7 +4,7 @@ My name is Gerardo. I'm a PhD student in Bayesian methods and Machine Learning a
 
 - 🤖 I'm interested in bayesian machine learning and its applications to shift-distribution, online learning, and continual learning.
 - 📧 You can ping me on [twitter](https://twitter.com/grrddm) or
-- 🌐 Learn more [about me](https://grrddm.notion.site/Gerardo-Dur-n-Mart-n-131c7daa91a546ffae6bdcf991e8cc9e).
+- 🌐 Learn more [about me](https://gerdm.github.io).
 
 <!-- <img width=600 src="https://user-images.githubusercontent.com/4108759/159231061-377f69f9-dbee-40c4-84c9-74fe5cf8ef5f.gif"/> -->
 
