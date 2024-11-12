@@ -6,4 +6,5 @@ My name is Gerardo. I'm a PhD student in Bayesian methods and Machine Learning a
 - 📧 You can ping me on [twitter](https://twitter.com/grrddm) or
 - 🌐 Learn more [about me](https://gerdm.github.io).
 
-![waves](https://github.com/gerdm/gerdm/assets/4108759/8475ac5e-b95f-45f7-948a-ddda9b234ed0)
+ <!--- ![waves](https://github.com/gerdm/gerdm/assets/4108759/8475ac5e-b95f-45f7-948a-ddda9b234ed0) --->
+![bocd-lr-and-prob](https://github.com/user-attachments/assets/196aba47-a5a8-46e9-a9f6-f2f36dbe45d0)
